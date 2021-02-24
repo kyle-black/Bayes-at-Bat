@@ -4,3 +4,5 @@ Day 1 : Mungled Data. Seperated pitch type into seperate data frames, started gr
 
 
 Day 2(Goal): Finish Scatter plots: start with hypothesis testing
+
+Day Three Finish Hypothesis Testing... begin putting project together.
