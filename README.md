@@ -1,8 +1,3 @@
 # Capstone-1
 
-Day 1 : Mungled Data. Seperated pitch type into seperate data frames, started graphing scatter plots
-
-
-Day 2(Goal): Finish Scatter plots: start with hypothesis testing
-
-Day Three Finish Hypothesis Testing... begin putting project together.
+https://github.com/kyle-black/Capstone-1/blob/main/Presentation/CapStone%201%20Ver1.pdf
